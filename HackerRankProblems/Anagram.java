@@ -1,3 +1,4 @@
+import java.util.HashMap;
 public class Anagram {
 
     static boolean isAnagram2(String a, String b) {
