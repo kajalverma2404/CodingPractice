@@ -23,3 +23,7 @@ public class PatternSyntexChecker {
         }
     }
 }
+//Time Complexity = O(testCases) + O(m1) + O(m2) + ... + O(mn) ≈ O(testCases + m1 + m2 + ... + mn)
+
+//Space Complexity = O(m) + O(testCases)
+
